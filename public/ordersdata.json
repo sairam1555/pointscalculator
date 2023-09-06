@@ -1,0 +1,355 @@
+[
+  {
+    "_id": 0,
+    "customerID": 0,
+    "customerName": "Ruby",
+    "orderID": 534,
+    "orderDate": "2023-03-27",
+    "orderAmount": 63,
+    "rewardEarned": 0
+  },
+  {
+    "_id": 1,
+    "customerID": 1,
+    "customerName": "Freda",
+    "orderID": 677,
+    "orderDate": "2023-03-01",
+    "orderAmount": 167
+  },
+  {
+    "_id": 2,
+    "customerID": 2,
+    "customerName": "Mullen",
+    "orderID": 436,
+    "orderDate": "2023-03-06",
+    "orderAmount": 113
+  },
+  {
+    "_id": 3,
+    "customerID": 3,
+    "customerName": "Freda",
+    "orderID": 156,
+    "orderDate": "2023-02-19",
+    "orderAmount": 91
+  },
+  {
+    "_id": 4,
+    "customerID": 4,
+    "customerName": "Ruby",
+    "orderID": 416,
+    "orderDate": "2023-02-17",
+    "orderAmount": 80
+  },
+  {
+    "_id": 5,
+    "customerID": 5,
+    "customerName": "Ruby",
+    "orderID": 506,
+    "orderDate": "2023-03-22",
+    "orderAmount": 97
+  },
+  {
+    "_id": 6,
+    "customerID": 6,
+    "customerName": "Ruby",
+    "orderID": 948,
+    "orderDate": "2023-02-26",
+    "orderAmount": 159
+  },
+  {
+    "_id": 7,
+    "customerID": 7,
+    "customerName": "Ruby",
+    "orderID": 938,
+    "orderDate": "2023-03-02",
+    "orderAmount": 84
+  },
+  {
+    "_id": 8,
+    "customerID": 8,
+    "customerName": "Ruby",
+    "orderID": 208,
+    "orderDate": "2023-03-15",
+    "orderAmount": 156
+  },
+  {
+    "_id": 9,
+    "customerID": 9,
+    "customerName": "Freda",
+    "orderID": 358,
+    "orderDate": "2023-02-11",
+    "orderAmount": 100
+  },
+  {
+    "_id": 10,
+    "customerID": 10,
+    "customerName": "Ruby",
+    "orderID": 727,
+    "orderDate": "2023-02-27",
+    "orderAmount": 44
+  },
+  {
+    "_id": 11,
+    "customerID": 11,
+    "customerName": "Freda",
+    "orderID": 785,
+    "orderDate": "2023-01-30",
+    "orderAmount": 117
+  },
+  {
+    "_id": 12,
+    "customerID": 12,
+    "customerName": "Ruby",
+    "orderID": 870,
+    "orderDate": "2023-01-12",
+    "orderAmount": 51
+  },
+  {
+    "_id": 13,
+    "customerID": 13,
+    "customerName": "Mullen",
+    "orderID": 221,
+    "orderDate": "2023-02-28",
+    "orderAmount": 92
+  },
+  {
+    "_id": 14,
+    "customerID": 14,
+    "customerName": "Ruby",
+    "orderID": 252,
+    "orderDate": "2023-02-12",
+    "orderAmount": 149
+  },
+  {
+    "_id": 15,
+    "customerID": 15,
+    "customerName": "Mullen",
+    "orderID": 427,
+    "orderDate": "2023-01-17",
+    "orderAmount": 169
+  },
+  {
+    "_id": 16,
+    "customerID": 16,
+    "customerName": "Freda",
+    "orderID": 640,
+    "orderDate": "2023-01-18",
+    "orderAmount": 52
+  },
+  {
+    "_id": 17,
+    "customerID": 17,
+    "customerName": "Ruby",
+    "orderID": 460,
+    "orderDate": "2023-02-01",
+    "orderAmount": 146
+  },
+  {
+    "_id": 18,
+    "customerID": 18,
+    "customerName": "Freda",
+    "orderID": 134,
+    "orderDate": "2023-03-26",
+    "orderAmount": 59
+  },
+  {
+    "_id": 19,
+    "customerID": 19,
+    "customerName": "Mullen",
+    "orderID": 164,
+    "orderDate": "2023-01-22",
+    "orderAmount": 160
+  },
+  {
+    "_id": 20,
+    "customerID": 20,
+    "customerName": "Mullen",
+    "orderID": 602,
+    "orderDate": "2023-03-27",
+    "orderAmount": 85
+  },
+  {
+    "_id": 21,
+    "customerID": 21,
+    "customerName": "Mullen",
+    "orderID": 352,
+    "orderDate": "2023-01-09",
+    "orderAmount": 81
+  },
+  {
+    "_id": 22,
+    "customerID": 22,
+    "customerName": "Ruby",
+    "orderID": 788,
+    "orderDate": "2023-02-02",
+    "orderAmount": 70
+  },
+  {
+    "_id": 23,
+    "customerID": 23,
+    "customerName": "Ruby",
+    "orderID": 578,
+    "orderDate": "2023-01-29",
+    "orderAmount": 129
+  },
+  {
+    "_id": 24,
+    "customerID": 24,
+    "customerName": "Freda",
+    "orderID": 540,
+    "orderDate": "2023-02-14",
+    "orderAmount": 129
+  },
+  {
+    "_id": 25,
+    "customerID": 25,
+    "customerName": "Freda",
+    "orderID": 802,
+    "orderDate": "2023-03-25",
+    "orderAmount": 151
+  },
+  {
+    "_id": 26,
+    "customerID": 26,
+    "customerName": "Mullen",
+    "orderID": 676,
+    "orderDate": "2023-02-11",
+    "orderAmount": 78
+  },
+  {
+    "_id": 27,
+    "customerID": 27,
+    "customerName": "Ruby",
+    "orderID": 500,
+    "orderDate": "2023-03-11",
+    "orderAmount": 102
+  },
+  {
+    "_id": 28,
+    "customerID": 28,
+    "customerName": "Mullen",
+    "orderID": 292,
+    "orderDate": "2023-03-12",
+    "orderAmount": 116
+  },
+  {
+    "_id": 29,
+    "customerID": 29,
+    "customerName": "Ruby",
+    "orderID": 627,
+    "orderDate": "2023-01-11",
+    "orderAmount": 98
+  },
+  {
+    "_id": 30,
+    "customerID": 30,
+    "customerName": "Ruby",
+    "orderID": 618,
+    "orderDate": "2023-02-18",
+    "orderAmount": 166
+  },
+  {
+    "_id": 31,
+    "customerID": 31,
+    "customerName": "Freda",
+    "orderID": 893,
+    "orderDate": "2023-02-12",
+    "orderAmount": 102
+  },
+  {
+    "_id": 32,
+    "customerID": 32,
+    "customerName": "Mullen",
+    "orderID": 600,
+    "orderDate": "2023-02-05",
+    "orderAmount": 40
+  },
+  {
+    "_id": 33,
+    "customerID": 33,
+    "customerName": "Mullen",
+    "orderID": 522,
+    "orderDate": "2023-03-21",
+    "orderAmount": 90
+  },
+  {
+    "_id": 34,
+    "customerID": 34,
+    "customerName": "Mullen",
+    "orderID": 250,
+    "orderDate": "2023-03-12",
+    "orderAmount": 124
+  },
+  {
+    "_id": 35,
+    "customerID": 35,
+    "customerName": "Ruby",
+    "orderID": 506,
+    "orderDate": "2023-02-15",
+    "orderAmount": 124
+  },
+  {
+    "_id": 36,
+    "customerID": 36,
+    "customerName": "Ruby",
+    "orderID": 511,
+    "orderDate": "2023-02-13",
+    "orderAmount": 60
+  },
+  {
+    "_id": 37,
+    "customerID": 37,
+    "customerName": "Mullen",
+    "orderID": 670,
+    "orderDate": "2023-03-07",
+    "orderAmount": 58
+  },
+  {
+    "_id": 38,
+    "customerID": 38,
+    "customerName": "Ruby",
+    "orderID": 600,
+    "orderDate": "2023-02-25",
+    "orderAmount": 69
+  },
+  {
+    "_id": 39,
+    "customerID": 39,
+    "customerName": "Freda",
+    "orderID": 815,
+    "orderDate": "2023-01-15",
+    "orderAmount": 107
+  },
+  {
+    "_id": 40,
+    "customerID": 40,
+    "customerName": "Ruby",
+    "orderID": 547,
+    "orderDate": "2023-03-11",
+    "orderAmount": 160
+  },
+  {
+    "_id": 41,
+    "customerID": 41,
+    "customerName": "Ruby",
+    "orderID": 842,
+    "orderDate": "2023-01-22",
+    "orderAmount": 115
+  },
+  {
+    "_id": 42,
+    "customerID": 42,
+    "customerName": "Ruby",
+    "orderID": 196,
+    "orderDate": "2023-03-17",
+    "orderAmount": 97
+  },
+  {
+    "_id": 43,
+    "customerID": 43,
+    "customerName": "Mullen",
+    "orderID": 874,
+    "orderDate": "2023-03-11",
+    "orderAmount": 132
+  }
+]
